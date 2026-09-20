@@ -1,114 +1,86 @@
 <div align="center">
 
-# Social Media Design Portfolio
+# Authentic Maldives Social Campaigns
 
-### Mohammad Forhad Reza · Graphic Designer
+### Five Original Campaign Concepts · No Reused Designs
 
-Modern, premium social-media visuals created to help brands communicate clearly, build recognition, and connect with their audiences.
+A fresh social-media portfolio by **Mohammad Forhad Reza**, created around contemporary Maldives transport, local food, dining, conservation and urban life.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-forhad-reza-60761a438/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Forhad_Reza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-forhad-reza-60761a438/)
 
 </div>
 
----
+> All brands shown here are fictional self-initiated concepts created for portfolio demonstration.
 
-## Featured Work
+## 01 · Kandu Line — New Evening Routes
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="lazy-guy-social-post.jpg" alt="Lazy Guy Maldives social media brand introduction">
-</td>
-<td width="50%" valign="top">
-<img src="lazy-guy-brand-showcase.jpg" alt="Lazy Guy Maldives brand identity campaign showcase">
-</td>
-</tr>
-</table>
+<img src="01-kandu-evening-routes.jpg" alt="Kandu Line evening ferry route social campaign" width="100%">
 
-### Lazy Guy Maldives
+**Campaign objective:** Announce a new evening ferry service with a confident, optimistic message.
 
-**Project type:** Brand introduction and island-lifestyle campaign concept  
-**Creative direction:** Relaxed, premium, tropical, and recognizably Maldivian
+**Design solution:** Golden-hour travel photography, strong information hierarchy and the brand’s ocean-blue and coral wave language communicate movement, reliability and connection.
 
-**Challenge:** Create a strong first impression for a modern Maldives lifestyle brand while keeping the identity relaxed, memorable, and suitable for social media.
+## 02 · Atoll Harvest — Island Market Saturday
 
-**Solution:** I developed a premium island-inspired direction using deep ocean blue, warm sunset gold, tropical imagery, confident typography, and a flexible visual identity. The concept extends naturally across social posts, apparel, packaging, promotional materials, and digital brand touchpoints.
+<img src="02-atoll-market-saturday.jpg" alt="Atoll Harvest island market social campaign" width="100%">
 
-**Design outcome:**
+**Campaign objective:** Promote a weekend local-produce market.
 
-- Strong brand recognition
-- Consistent tropical color palette
-- Clear social-media hierarchy
-- Flexible campaign applications
-- Premium but approachable personality
+**Design solution:** Fresh breadfruit, greens, bananas, lime and island spices create an authentic product story, while green and turmeric-yellow typography builds immediate recognition.
 
----
+## 03 · Lonu Kitchen — Maldivian Breakfast
 
-<img src="design-hub-showcase.jpg" alt="Design Hub by Reza creative brand showcase" width="100%">
+<img src="03-lonu-breakfast.jpg" alt="Lonu Kitchen Maldivian breakfast social campaign" width="100%">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="design-journey.jpg" alt="Design Hub by Reza graphic design journey">
-</td>
-<td width="50%" valign="top">
-<img src="creative-design-showcase.jpg" alt="Creative design showcase created with Adobe Illustrator">
-</td>
-</tr>
-</table>
+**Campaign objective:** Build morning traffic around a fresh Maldivian breakfast offer.
 
-### Design Hub by Reza
+**Design solution:** Close, appetizing food photography gives mas huni and roshi a premium contemporary presentation, supported by bold red framing and direct promotional copy.
 
-**Project type:** Personal creative-brand content  
-**Creative direction:** Modern, energetic, professional, and technology-focused
+## 04 · Reef Guard — Join the Reef Survey
 
-**Challenge:** Show multiple graphic-design capabilities under one clear identity while communicating professional growth and creative ambition.
+<img src="04-reef-survey.jpg" alt="Reef Guard volunteer reef survey campaign" width="100%">
 
-**Solution:** I built a dark-blue visual system with cyan and orange accents, bold typography, flowing graphic elements, and structured layouts. The system supports personal-brand storytelling, design-service promotion, portfolio showcases, and milestone posts.
+**Campaign objective:** Recruit volunteers for a community reef survey.
 
-**Storytelling highlight:** The “My Journey Began in 2022” concept presents my path from learning CorelDRAW after work in the Maldives to earning my first **MVR 500** from a logo project.
+**Design solution:** Documentary underwater imagery and authoritative campaign typography position the initiative as science-led, active and credible.
 
-### Creative Design Showcase
+## 05 · Malé Metro — Your City, Delivered
 
-This Adobe Illustrator concept demonstrates how one designer can create varied campaign styles—including fashion, restaurant, travel, real estate, product, and corporate design—while maintaining a polished presentation.
+<img src="05-male-metro-delivery.jpg" alt="Malé Metro same-day delivery social campaign" width="100%">
 
-## Portfolio Focus
+**Campaign objective:** Promote same-day delivery across Malé.
 
-- Brand-introduction posts
-- Promotional campaigns
-- Product and service advertising
+**Design solution:** A dynamic courier scene, urban setting, high-contrast yellow and blue branding, and an app-style call to action communicate speed and convenience.
+
+## Why This Collection Is Different
+
+- Every design begins with a Maldives-specific communication goal.
+- The sectors and audiences are deliberately varied.
+- Each campaign has its own visual system.
+- The work represents local food, community, marine life, transport and city life—not only tourism.
+- The layouts are designed for clear mobile viewing and fast message recognition.
+
+## My Social Design Process
+
+1. Define the campaign objective.
+2. Identify the intended audience and platform.
+3. Establish one clear message and call to action.
+4. Use brand-consistent imagery, typography and color.
+5. Test hierarchy and readability at mobile size.
+6. Prepare adaptable campaign variations.
+
+## Services Demonstrated
+
+- Social-media art direction
+- Campaign concept development
+- Brand-consistent post design
+- Promotional advertising
 - Visual storytelling
-- Social-media brand systems
-- Platform-ready campaign assets
-
-## My Process
-
-1. Understand the brand, audience, objective, and platform.
-2. Establish the message hierarchy and call to action.
-3. Select the color, typography, imagery, and composition.
-4. Design platform-appropriate creative variations.
-5. Review readability and brand consistency.
-6. Prepare polished final assets.
-
-## Tools
-
-<p>
-  <img src="https://img.shields.io/badge/CorelDRAW-46A247?style=flat-square&logo=coreldraw&logoColor=white" alt="CorelDRAW">
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
-  <img src="https://img.shields.io/badge/Affinity_Designer-134881?style=flat-square&logo=affinitydesigner&logoColor=white" alt="Affinity Designer">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
-</p>
+- Food and lifestyle presentation
+- Community and environmental communication
 
 ## About the Designer
 
-I am **Mohammad Forhad Reza**, a graphic designer with **8 years of creative experience in the Maldives**, including professional experience with **iTunes Maldives**.
+I am **Mohammad Forhad Reza**, a graphic designer with **8 years of creative experience in the Maldives**.
 
-[View my complete GitHub profile](https://github.com/designerhubbyreza) · [Connect on LinkedIn](https://www.linkedin.com/in/mohammad-forhad-reza-60761a438/)
-
----
-
-<div align="center">
-
-### Creative ideas. Powerful designs. Clear communication.
-
-</div>
+[Main GitHub Profile](https://github.com/designerhubbyreza) · [LinkedIn](https://www.linkedin.com/in/mohammad-forhad-reza-60761a438/) · [Branding Portfolio](https://github.com/designerhubbyreza/branding-projects)
